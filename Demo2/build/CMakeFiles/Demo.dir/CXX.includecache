@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/dove/VScode-space/cmake-practice/Demo2/MathFunctions.h
+
+/Users/dove/VScode-space/cmake-practice/Demo2/main.cc
+stdio.h
+-
+stdlib.h
+-
+MathFunctions.h
+/Users/dove/VScode-space/cmake-practice/Demo2/MathFunctions.h
+
